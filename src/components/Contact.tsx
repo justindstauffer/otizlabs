@@ -34,7 +34,7 @@ export default function Contact() {
             <div className="text-sm text-navy-300">Email us</div>
             {/* TODO: replace with real business email */}
             <div className="mt-1 font-medium text-white">
-              hello@otizlabs.com
+              info@otizlabs.com
             </div>
           </a>
 
@@ -61,7 +61,7 @@ export default function Contact() {
             <div className="text-sm text-navy-300">Call us</div>
             {/* TODO: replace with real phone number */}
             <div className="mt-1 font-medium text-white">
-              (placeholder phone)
+              904-418-9975
             </div>
           </a>
         </div>
