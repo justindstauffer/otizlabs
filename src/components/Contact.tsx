@@ -68,7 +68,7 @@ export default function Contact() {
 
         <div className="mt-10">
           <a
-            href="mailto:hello@otizlabs.com"
+            href="mailto:info@otizlabs.com"
             className="inline-block rounded-md bg-teal-500 px-6 py-3 text-sm font-medium text-navy-950 transition hover:bg-teal-400"
           >
             Send us a message
